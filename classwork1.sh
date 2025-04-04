@@ -1,4 +1,5 @@
 #!/bin/bash
+# start here
 
 function calculate_times() {
     local n=$1
